@@ -1,4 +1,2 @@
 
-func main() {
-  fmt.Println("Hello World")
-}
+<head>sistem informasi infaq</head>
